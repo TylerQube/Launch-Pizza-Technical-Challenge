@@ -1,5 +1,8 @@
 # Launch-Pizza Technical Outline
 
+The design and description of a simple backend API for a fictional pizza delivery service Launch-Pizza.
+Written as part of the application process for the UBC LaunchPad software club.
+
 ## Outline
 1. Features
 2. Authentication

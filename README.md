@@ -17,7 +17,7 @@ Written as part of the application process for the UBC LaunchPad software club.
 - View order receipt for up to one year
 
 ## Authentication
-Firstly, to ensure users can securely place orders, track it's status, and view an order history, each endpoint of this API must be verified with some form of client authentication.
+Firstly, to ensure users can securely place orders, track order status, and view order history, each endpoint of this API must be verified with some form of client authentication.
 
 Most recently, my authentication method of choice has been **JSON Web Tokens**. When a user logs in, for example, the backend generates a unique token signed by a backend secret key (optionally with an expiration date or other configuration).
 
